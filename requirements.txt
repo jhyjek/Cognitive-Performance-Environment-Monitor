@@ -1,0 +1,5 @@
+adafruit-circuitpython-ccs811
+gpiozero
+RPLCD
+smbus2
+requests
