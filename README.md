@@ -9,6 +9,12 @@ Built for CS 4432 (Sensors & IoT) at the University of Minnesota Duluth.
 
 **Team:** Abdullah Sahto, Jacob Hyjek
 
+![Team demoing the device](docs/team-demo.png)
+
+## Demo
+
+Watch the team demo the working device: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7402530251836424192/)
+
 ## Overview
 
 Research links elevated indoor CO₂ levels and excessive noise to measurable drops
